@@ -9,6 +9,3 @@ This is a Python-based script that checks the strength of a given password based
 ## Features
 - Classifies passwords as "Weak", "Moderate", or "Strong"
 - Simple and easy to use
-
-## How to Use
-1. Clone this repository:
